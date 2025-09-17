@@ -1,0 +1,94 @@
+{
+  "stocks": [
+    {
+      "id": 1,
+      "stock_symbol": "AAPL",
+      "price": 175.43,
+      "volume": 45678900,
+      "timestamp": "2024-01-15T10:30:00.000Z",
+      "createdAt": "2024-01-15T10:30:00.000Z",
+      "updatedAt": "2024-01-15T10:30:00.000Z"
+    },
+    {
+      "id": 2,
+      "stock_symbol": "AAPL",
+      "price": 176.12,
+      "volume": 42345600,
+      "timestamp": "2024-01-15T10:31:00.000Z",
+      "createdAt": "2024-01-15T10:31:00.000Z",
+      "updatedAt": "2024-01-15T10:31:00.000Z"
+    },
+    {
+      "id": 3,
+      "stock_symbol": "GOOGL",
+      "price": 2845.67,
+      "volume": 1234500,
+      "timestamp": "2024-01-15T10:30:00.000Z",
+      "createdAt": "2024-01-15T10:30:00.000Z",
+      "updatedAt": "2024-01-15T10:30:00.000Z"
+    },
+    {
+      "id": 4,
+      "stock_symbol": "GOOGL",
+      "price": 2851.23,
+      "volume": 1198700,
+      "timestamp": "2024-01-15T10:31:00.000Z",
+      "createdAt": "2024-01-15T10:31:00.000Z",
+      "updatedAt": "2024-01-15T10:31:00.000Z"
+    },
+    {
+      "id": 5,
+      "stock_symbol": "MSFT",
+      "price": 412.89,
+      "volume": 23456700,
+      "timestamp": "2024-01-15T10:30:00.000Z",
+      "createdAt": "2024-01-15T10:30:00.000Z",
+      "updatedAt": "2024-01-15T10:30:00.000Z"
+    },
+    {
+      "id": 6,
+      "stock_symbol": "MSFT",
+      "price": 414.56,
+      "volume": 22987600,
+      "timestamp": "2024-01-15T10:31:00.000Z",
+      "createdAt": "2024-01-15T10:31:00.000Z",
+      "updatedAt": "2024-01-15T10:31:00.000Z"
+    },
+    {
+      "id": 7,
+      "stock_symbol": "AMZN",
+      "price": 3234.78,
+      "volume": 8765400,
+      "timestamp": "2024-01-15T10:30:00.000Z",
+      "createdAt": "2024-01-15T10:30:00.000Z",
+      "updatedAt": "2024-01-15T10:30:00.000Z"
+    },
+    {
+      "id": 8,
+      "stock_symbol": "AMZN",
+      "price": 3241.12,
+      "volume": 8543200,
+      "timestamp": "2024-01-15T10:31:00.000Z",
+      "createdAt": "2024-01-15T10:31:00.000Z",
+      "updatedAt": "2024-01-15T10:31:00.000Z"
+    },
+    {
+      "id": 9,
+      "stock_symbol": "TSLA",
+      "price": 789.45,
+      "volume": 34567800,
+      "timestamp": "2024-01-15T10:30:00.000Z",
+      "createdAt": "2024-01-15T10:30:00.000Z",
+      "updatedAt": "2024-01-15T10:30:00.000Z"
+    },
+    {
+      "id": 10,
+      "stock_symbol": "TSLA",
+      "price": 792.67,
+      "volume": 33876500,
+      "timestamp": "2024-01-15T10:31:00.000Z",
+      "createdAt": "2024-01-15T10:31:00.000Z",
+      "updatedAt": "2024-01-15T10:31:00.000Z"
+    }
+  ]
+}
